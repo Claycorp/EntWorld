@@ -21,7 +21,8 @@ The rules
 2. Don't be a dick.
 3. Don't be a dick. This includes not poking around in other people's stuff.
 4. Don't be a dick. You cannot claim ore veins (or other natural resources). Mine it, and its yours.
-5. Don't be a dick. Don't run off to the middle of nowhere. 
+5. Don't be a dick. Don't run off to the middle of nowhere.
+
 
 - We have logging information and a strict policy.
 - We reserve the right to refuse access to anyone.
