@@ -1,7 +1,8 @@
 Entworld V5
 =============
 
-[**EntWorld V4 download**](https://dl.dries007.net/EntWorld4_World.7z)
+- [EntWorld V4 download](https://dl.dries007.net/EntWorld4_World_v4.2.1.7z)
+- [EntWorld V3 download](https://dl.dries007.net/EntWorld3_World_v3.2.3.7z)
 
 This is a subserver for [Deadpine](http://www.twitch.tv/deadpine), and thus you have to be a twitch subscriber to get whitelisted.
 
@@ -30,7 +31,7 @@ The rules
 The modlist
 -----------
 
-[Look, fancy modlist!](#file-modlist-md)
+[Look, fancy modlist!](/modlist.md)
 
 Getting on the server
 ---------------------
@@ -54,6 +55,8 @@ Windows/Mac users:
 Linux users:
 
 - USE MULTIMC
-- Make a new instance, using 'Import modpack' with this link: TODO: New pack link or download system.
+- Make a new instance, using 'Import modpack' with this link: http://dl.dries007.net/PineFresh_V2.7.1.zip
+
+Please don't abuse this link. It will be removed if it gets used for anything unintened.
 
 (If a new version of the pack comes out and this link is not yet updated, ask Dries007)
