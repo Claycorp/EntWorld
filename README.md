@@ -11,8 +11,13 @@ This is a subserver for [Deadpine](http://www.twitch.tv/deadpine), and thus you 
 Things You Need to know!
 ------------------------
 
-1. The server is on a reboot timer to help reduce lag. Everyday there should be a 15 minute warning and this process should only take a few minutes to complete.
-2. If there are issues with the server being down or not working please contact [Clay (@clay_corp)](https://twitter.com/Clay_corp) [Dries (@driesk007) ](https://twitter.com/driesk007) [Voxelvixen (@NunuVoxelVixen)](https://twitter.com/NunuVoxelVixen) or [Deadpine (@deadpine223)](https://twitter.com/deadpine223). We will do our best to get it back up as soon as possible. [Click-to-Tweet link, for the lazy :p](http://ctt.ec/cqSfe)
+1. The server is on a reboot timer to help reduce lag. Once a day there should be a 15 minute warning before the restart and the restart should only take a few minutes to complete.
+2. If the server is down please contact someone below. If you have any other issues use the [issue tracker!](https://github.com/Claycorp/EntWorld/issues).
+ * [Clay (@clay_corp)](https://twitter.com/Clay_corp) 
+ * [Dries (@driesk007) ](https://twitter.com/driesk007) 
+ * [Voxelvixen (@NunuVoxelVixen)](https://twitter.com/NunuVoxelVixen) 
+ * [Deadpine (@deadpine223)](https://twitter.com/deadpine223)
+ * We will do our best to get it back up as soon as possible. [Click-to-Tweet link, for the lazy :p](http://ctt.ec/cqSfe)
 
 The rules
 ---------
@@ -20,14 +25,15 @@ The rules
 1. Deadpine is our supreme leader, and his disciples' decisions are LAW.
 2. Don't be a dick.
 3. Don't be a dick. This includes not poking around in other people's stuff.
-4. Don't be a dick. You cannot claim ore veins (or other natural resources). Mine it, and its yours.
-5. Don't be a dick. Don't run off to the middle of nowhere.
+4. Don't be a dick. You cannot claim resources. Collect it and Store it.
+5. Don't be a dick. Share land and work together.
 
 
 - We have logging information and a strict policy.
 - We reserve the right to refuse access to anyone.
 - There is no uptime guarantee.
-- The lifetime of the server is yet to be determined.
+- The lifetime of the server is never known.
+- The server must be stable. We will remove peoples stuff or mods to keep things working if needed.
 
 The modlist
 -----------
