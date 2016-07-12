@@ -19,7 +19,7 @@ Things You Need to know!
  * [Deadpine (@deadpine223)](https://twitter.com/deadpine223)
  * We will do our best to get it back up as soon as possible. [Click-to-Tweet link, for the lazy :p](http://ctt.ec/cqSfe)
 
-The rules
+Rules! You better follow them!
 ---------
 
 1. Deadpine is our supreme leader, and his disciples' decisions are LAW.
@@ -28,14 +28,13 @@ The rules
 4. Don't be a dick. You cannot claim resources. Collect it and Store it.
 5. Don't be a dick. Share land and work together.
 
-
 - We have logging information and a strict policy.
 - We reserve the right to refuse access to anyone.
 - There is no uptime guarantee.
 - The lifetime of the server is never known.
 - The server must be stable. We will remove peoples stuff or mods to keep things working if needed.
 
-The modlist
+Modlist, What more do you need to know?
 -----------
 
 [Look, fancy modlist!](/modlist.md)
@@ -47,10 +46,12 @@ You only need to link Twitch. You do not need GameWisp or Beam for this server.
 
 **[You need to link your accounts (Twitch & Minecraft) in order to be able to play on the server by clicking here.](http://www.doubledoordev.net/?p=linking)**
 
-The pack
+Setting up the Pack!
 --------
 
-The name of the pack is EntWorld, the server information is shipped with the pack.
+The current pack is [PineFresh](http://minecraft.curseforge.com/projects/pinefresh-1-9?gameCategorySlug=modpacks&projectID=238846)!
+Please follow the instructions below for how to get the pack! If you have not done 'Getting on the Server' you must do that before trying to connect! Otherwwise you CAN NOT JOIN!
+
 
 Windows/Mac users: 
 - Download & install [CurseVoice beta](http://beta.cursevoice.com/).
@@ -60,7 +61,6 @@ Windows/Mac users:
 - **If you have the pack installed already, make sure it is up to date!**
 
 Linux users:
-
 - USE MULTIMC
 - Make a new instance, using 'Import modpack' with this link: http://dl.dries007.net/PineFresh_V2.7.1.zip
 
