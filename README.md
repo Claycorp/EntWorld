@@ -1,3 +1,5 @@
+#NOTICE: We now have an offical area to notify eveyone of server issues! Please join to keep updated. https://www.curse.com/deadpine
+
 Entworld V5
 =============
 
