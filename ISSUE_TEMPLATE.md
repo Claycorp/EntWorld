@@ -1,4 +1,4 @@
-## Issues with crashes or other game related problems MUST HAVE A LOG! Other problems do not need logs.
+## Issues with crashes or other game related problems MUST HAVE A LOG! Other problems do not need logs. @Claycorp
 ##### What is the problem?
 
 ##### Client, Server or Both?
