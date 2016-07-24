@@ -29,8 +29,9 @@ Rules! You better follow them!
 3. Don't be a dick. This includes not poking around in other people's stuff.
 4. Don't be a dick. You cannot claim resources. Collect it and Store it.
 5. Don't be a dick. Share land and work together.
-6. Clean up after your adventures! Don't leave behind pilars of junk. Make waypoint bases instead.
-7. Asking questions is OK but we are not Wikipedia. If you would like to learn a whole mod click its name in curse and click "Website" in the top right.
+6. Mark your house with a sign with your name and whoever lives with you. If you abandon something mark it abandon!
+7. Clean up after your adventures! Don't leave behind pilars of junk. Make waypoint bases instead.
+8. Asking questions is OK but we are not Wikipedia. If you would like to learn a whole mod click its name in curse and click "Website" in the top right.
 
 - We have logging information and a strict policy.
 - We reserve the right to refuse access to anyone.
