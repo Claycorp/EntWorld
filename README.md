@@ -32,7 +32,8 @@ Rules! You better follow them!
 6. Mark your buildings with a sign with your name and whoever lives there/made it. If you abandon something mark it abandon!
 7. Clean up after your adventures! Don't leave behind pilars of junk. Make waypoint bases instead.
 8. Asking questions is OK but we are not Wikipedia. If you would like to learn a whole mod click its name in curse and click "Website" in the top right.
-9. Link nether portals please. Use this site to help you [http://www.mavenspun.com/games/minecraft/](http://www.mavenspun.com/games/minecraft/) Bulding portals in the nether can put you outside the border. YOU WILL DIE! Please don't do this.
+9. Link nether portals properly please. Use this site to help you [http://www.mavenspun.com/games/minecraft/](http://www.mavenspun.com/games/minecraft/) 
+10. Bulding portals in the nether can put you outside the border. YOU WILL DIE! Please don't do this. We will only get your items once.
 
 - We have logging information and a strict policy.
 - We reserve the right to refuse access to anyone.
