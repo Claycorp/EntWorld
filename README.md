@@ -8,7 +8,7 @@ Entworld V5
 
 This is a subserver for [Deadpine](http://www.twitch.tv/deadpine), and thus you have to be a twitch subscriber to get whitelisted.
 
-**This document is update when issues come up, please check back if you have issues.**
+**This document is updated frequently! Check back every now and then to keep up to date.**
 
 Things You Need to know!
 ------------------------
@@ -29,6 +29,8 @@ Rules! You better follow them!
 3. Don't be a dick. This includes not poking around in other people's stuff.
 4. Don't be a dick. You cannot claim resources. Collect it and Store it.
 5. Don't be a dick. Share land and work together.
+6. Clean up after your adventures! Don't leave behind pilars of junk. Make waypoint bases instead.
+7. Asking questions is OK but we are not Wikipedia. If you would like to learn a whole mod click its name in curse and click "Website" in the top right.
 
 - We have logging information and a strict policy.
 - We reserve the right to refuse access to anyone.
@@ -52,7 +54,7 @@ Setting up the Pack!
 --------
 
 The current pack is [PineFresh](http://minecraft.curseforge.com/projects/pinefresh-1-9?gameCategorySlug=modpacks&projectID=238846)!
-Please follow the instructions below for how to get the pack! If you have not done 'Getting on the Server' you must do that before trying to connect! Otherwwise you CAN NOT JOIN!
+Please follow the instructions below for how to get the pack! If you have not done 'Getting on the Server' you must do that before trying to connect! Otherwise you CAN NOT JOIN!
 
 
 Windows/Mac users: 
