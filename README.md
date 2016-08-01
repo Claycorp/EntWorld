@@ -49,7 +49,7 @@ Things You Need to know!
 Setting up the Pack!
 --------
 
-The current pack is [PineFresh](http://minecraft.curseforge.com/projects/pinefresh-1-9?gameCategorySlug=modpacks&projectID=238846)!
+The current pack is [Ent World](https://minecraft.curseforge.com/projects/ent-world)!
 Please follow the instructions below for how to get the pack! If you have not done 'Getting on the Server' you must do that before trying to connect! Otherwise you CAN NOT JOIN!
 
 
@@ -57,12 +57,12 @@ Windows/Mac users:
 - Download & install [CurseVoice beta](http://beta.cursevoice.com/).
 - Go to the "Plugins" tab, enable Minecraft
 - Go to the "Minecraft" tab
-- Search & install for "PineFresh"
+- Search & install for "Ent World"
 - **If you have the pack installed already, make sure it is up to date!**
 
 Linux users:
 - USE MULTIMC
-- Make a new instance, using 'Import modpack' with this link: http://dl.dries007.net/PineFresh_V2.7.1.zip
+- Make a new instance, using 'Import modpack' with this link: N/A
 
 Please don't abuse this link. It will be removed if it gets used for anything unintened.
 
