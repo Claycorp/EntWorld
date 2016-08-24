@@ -75,15 +75,7 @@ In Ent World V5 we are trying something new. Instead of letting the server sit f
 How this works is quite simple!
  1. Check [this spreadsheet](https://docs.google.com/spreadsheets/d/1FNnXL8Z0wM3qB5xblRzEtO1PN8vMgHnnvsa1oa3FAX4/edit?usp=sharing) for the current ideas.
  2. Fill out [this form](https://goo.gl/forms/JwHKQw6gP3A3AH5g1) if you don't see your idea.
- 3. Wait till the end of the week for us to collect the results.
- 4. Then the next week vote for the changes you want on the poll. The polls will be on the curse server in the Ent World room!
- 5. Those changes will be added and pushed to the server at the end of the week.
-
-Ideas for changes will always be for the week AFTER they are subbmited. Example: You suggest we add mod X on week 1. This will be put in the poll on week 2. You then suggest on week 2 that mod X should get addon mod Y. Mod Y will show up on week 3's poll not week 2.
-
-- If nobody suggests anything and the majority of mods do not need to be updated there will be no update for that week.
-- When a poll is finished a change will need AT LEAST 50% of active users votes for "Yes" or "Don't Care".
-- Server Admins hold every right to deny any addition or revert any change voted on by the community.
+ 3. Wait till the next update if the idea is accepted.
 
 Old World downloads of past verions of ent world!
 --------
