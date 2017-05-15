@@ -1,6 +1,6 @@
-#NOTICE: We now have an offical area to notify eveyone of server issues! Please join to keep updated. https://www.curse.com/deadpine
+#NOTICE: We now have an offical area to notify eveyone of server issues! Please join to keep updated. https://invite.twitch.tv/ING4zR
 **This document is updated frequently! Check back every now and then to keep up to date.**
-Entworld V5
+EntWorld V6
 =============
 This is a subserver for [Deadpine](http://www.twitch.tv/deadpine), and thus you have to be a twitch subscriber to get whitelisted.
 [Look, fancy modlist!](/modlist.md)
@@ -54,10 +54,14 @@ Please follow the instructions below for how to get the pack! If you have not do
 
 
 Windows/Mac users: 
-- Download & install [CurseVoice beta](http://beta.cursevoice.com/).
-- Go to the "Plugins" tab, enable Minecraft
-- Go to the "Minecraft" tab
-- Search & install for "Ent World"
+- Download & install [Twitch App](https://app.twitch.tv/).
+- Go to settings. (The Cog/Gear button)
+- Go to "Minecraft".
+- Click "Mod Management" Slider if it is not green.
+- Click Done.
+- Go to "Minecraft". (The Creeper Face)
+- Click "Browse All Modpacks" & search for "Ent World".
+- Click Install!
 - **If you have the pack installed already, make sure it is up to date!**
 
 Linux users:
@@ -67,15 +71,6 @@ Linux users:
 Please don't abuse this link. It will be removed if it gets used for anything unintened.
 
 (If a new version of the pack comes out and this link is not yet updated, ask Dries007)
-
-Ent World updates and voting
---------
-In Ent World V5 we are trying something new. Instead of letting the server sit for weeks/months with no updates or changes we are going to ask the people playing the server to give input for next weeks update!
-
-How this works is quite simple!
- 1. Check [this spreadsheet](https://docs.google.com/spreadsheets/d/1FNnXL8Z0wM3qB5xblRzEtO1PN8vMgHnnvsa1oa3FAX4/edit?usp=sharing) for the current ideas.
- 2. Fill out [this form](https://goo.gl/forms/JwHKQw6gP3A3AH5g1) if you don't see your idea.
- 3. Wait till the next update if the idea is accepted.
 
 Old World downloads of past verions of ent world!
 --------
