@@ -1,4 +1,4 @@
-#NOTICE: We now have an offical area to notify eveyone of server issues! Please join to keep updated. https://invite.twitch.tv/ING4zR
+# NOTICE: We now have an offical area to notify eveyone of server issues! Please join to keep updated. https://invite.twitch.tv/ING4zR
 **This document is updated frequently! Check back every now and then to keep up to date.**
 EntWorld V6
 =============
@@ -17,7 +17,7 @@ You only need to link Twitch. You do not need GameWisp or Beam for this server.
 Second, Read the rules!
 ---------
 
-- We have logging information and a strict policy.
+- We have a strict policy.
 - We reserve the right to refuse access to anyone.
 - There is no uptime guarantee.
 - The lifetime of the server is never known.
@@ -32,16 +32,17 @@ Second, Read the rules!
 7. Clean up after your adventures! Don't leave behind pilars of junk. Make waypoint bases instead.
 8. Asking questions is OK but we are not Wikipedia. If you would like to learn a whole mod click its name in curse and click "Website" in the top right.
 9. Link nether portals properly please. Use this site to help you [http://www.mavenspun.com/games/minecraft/](http://www.mavenspun.com/games/minecraft/) 
-10. Bulding portals in other dimentions other than the overworld can put you outside the border. YOU WILL DIE! 
+10. Bulding portals in other dimentions other than the overworld can put you outside the border. YOU WILL DIE! Items WILL NOT be Refuned.
+11. Players will be kicked after 30 minutes. Bypassing this INTENONTALY will get a 12 hour ban. No ifs, ands or butts.
 
 Things You Need to know!
 ------------------------
 
 1. The server is on a reboot timer to help reduce lag. Once a day there should be a 15 minute warning before the restart and the restart should only take a few minutes to complete.
-2. If the server is down please contact someone below. If you have any other issues use the [issue tracker!](https://github.com/Claycorp/EntWorld/issues).
+2. If the server is down please contact someone below. [You can also ping us on the Twitch App!](https://invite.twitch.tv/ING4zR) If you have any other issues use the [issue tracker!](https://github.com/Claycorp/EntWorld/issues).
  * [Clay (@clay_corp)](https://twitter.com/Clay_corp) 
  * [Dries (@driesk007) ](https://twitter.com/driesk007) 
- * [Voxelvixen (@NunuVoxelVixen)](https://twitter.com/NunuVoxelVixen) 
+ * Voxelvixen (Ping on Twitch only)
  * [Deadpine (@deadpine223)](https://twitter.com/deadpine223)
  * We will do our best to get it back up as soon as possible. [Click-to-Tweet link, for the lazy :p](http://ctt.ec/cqSfe)
 
