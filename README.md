@@ -3,7 +3,6 @@
 EntWorld V6
 =============
 This is a subserver for [Deadpine](http://www.twitch.tv/deadpine), and thus you have to be a twitch subscriber to get whitelisted.
-[Look, fancy modlist!](/modlist.md)
 
 Welcome to Ent World! We hope you enjoy the server while you are with us! We will always use the [Ent World](http://minecraft.curseforge.com/projects/ent-world) pack on curse when we are not using a pack made by someone else.
 
