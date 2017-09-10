@@ -32,7 +32,7 @@ Second, Read the rules!
 8. Asking questions is OK but we are not Wikipedia. If you would like to learn a whole mod click its name in curse and click "Website" in the top right.
 9. Link nether portals properly please. Use this site to help you [http://www.mavenspun.com/games/minecraft/](http://www.mavenspun.com/games/minecraft/) 
 10. Bulding portals in other dimentions other than the overworld can put you outside the border. YOU WILL DIE! Items WILL NOT be Refuned.
-11. Players will be kicked after 30 minutes. Bypassing this INTENONTALY will get a 12 hour ban. No ifs, ands or butts.
+11. Players will be kicked after 30 minutes. Bypassing this INTENTIONALLY will get a 12 hour ban. No ifs, ands or buts.
 
 Things You Need to know!
 ------------------------
